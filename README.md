@@ -11,4 +11,4 @@
 8. Random Forest Regression
 
 ### [Click here](https://www.kaggle.com/ritikmaheshwari/diamond-price-prediction) to get the dataset from Kaggle.
-### [Click here](https://www.kaggle.com/ritikmaheshwari/diamond-price-prediction) to check out the code.
+### [Click here](https://github.com/hariPrasadCoder/Diamond-Price-Prediction/blob/main/Diamond_Price_Prediction.ipynb) to check out the code.
